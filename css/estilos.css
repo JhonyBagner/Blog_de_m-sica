@@ -1,0 +1,23 @@
+body{
+	background: #b71c1c;
+}
+
+header .container{
+	background: white;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+#imgLogo{
+	width: 35%;
+}
+
+.redesSociales{
+	width: 18%
+}
+
+#containerNav{
+	background: #ff8a80;
+	text-align: center;
+	border-radius: 0 0 5px 5px;
+}
